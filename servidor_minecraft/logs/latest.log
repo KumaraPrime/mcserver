@@ -170,3 +170,17 @@
 [04Jul2025 19:48:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 was slain by Zombie
 [04Jul2025 19:49:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 has made the advancement [Monster Hunter]
 [04Jul2025 19:49:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 was shot by Skeleton
+[04Jul2025 19:51:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 was slain by Enderman
+[04Jul2025 19:52:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 was slain by Enderman
+[04Jul2025 20:00:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 20:00:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: operator Biangio02<--[HERE]
+[04Jul2025 20:01:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Biangio02 a server operator
+[04Jul2025 20:01:48.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Biangio02: Set own game mode to Creative Mode]
+[04Jul2025 20:04:37.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biangio02 lost connection: Disconnected
+[04Jul2025 20:04:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biangio02 left the game
+[04Jul2025 20:04:58.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 20:04:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[04Jul2025 20:05:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 20:05:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close server<--[HERE]
+[04Jul2025 20:06:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 20:06:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
